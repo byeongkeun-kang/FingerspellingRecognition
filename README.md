@@ -6,6 +6,5 @@ Byeongkeun Kang, Subarna Tripathi, and Truong Nguyen, "Real-time Sign Language F
 
 
 Trained model
-
-Trained model is available at http://videoprocessing.ucsd.edu/~bkkang/publication.html .
+Trained model is available at http://videoprocessing.ucsd.edu/~bkkang/publication.html.
 
